@@ -9,21 +9,10 @@ Right now I'm building **Campus Connect ERP**, a college management platform dev
 Everything here is something I've built to learn, experiment, and improve.
 
 ---
+## What I Build With
 
-## Tech I Work With
+Java • React • Node.js • Express • MongoDB • MySQL • Tailwind CSS • Git
 
-- Java
-- Python
-- JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- Tailwind CSS
-- Git
-- Postman
-- Figma
 
 ---
 
